@@ -15,6 +15,12 @@ Requirement :
 
 - `pip 23.1.2`
 
+Prof
+- ZoomSounds < 6.05 - Unauthenticated Arbitrary File Upload
+- CVE-2021-25094
+- CVE-2021-24284
+- WP-ENGINE -  Unauthenticated Arbitrary File Upload
+
 Install :
 
 ```
