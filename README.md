@@ -1,5 +1,5 @@
 # _SharkXploit_
-SharkXploit Wordpress Auto Exploit
+SharkXploit Wordpress Auto Exploit v0.1
 
 <img src="https://raw.githubusercontent.com/InMyMine7/SharkXploit/main/wpex.png">
 
