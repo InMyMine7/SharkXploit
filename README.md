@@ -1,7 +1,7 @@
 # _SharkXploit_
 SharkXploit Wordpress Auto Exploit
 
-<img src="https://raw.githubusercontent.com/InMyMine7/Beelzebub/main/beelzebub.jpg](https://raw.githubusercontent.com/InMyMine7/SharkXploit/main/wpex.png">
+<img src="https://raw.githubusercontent.com/InMyMine7/SharkXploit/main/wpex.png">
 
 Feature : 
 - Fast Scanning
