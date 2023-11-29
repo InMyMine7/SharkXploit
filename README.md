@@ -20,6 +20,9 @@ Prof
 - CVE-2021-25094
 - CVE-2021-24284
 - WP-ENGINE -  Unauthenticated Arbitrary File Upload
+- Cherry Plugin 1.2.7 - Unauthenticated Arbitrary File Upload
+- FormCraft 2.0 Unauthenticated Arbitrary File Upload
+- WordPress Plugins Apikey Unauthenticated Arbitrary File Upload
 
 Install :
 
