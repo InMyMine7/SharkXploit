@@ -32,7 +32,7 @@ pip install -r sharkxploit.txt
 How To Usage :
 
 ```
-python3 beelzebub.py
+python3 ex.py
 ```
 
 **DISCLAIMER : THIS TOOLS IS FOR EDUCATIONAL PURPOSES ONLY. 
